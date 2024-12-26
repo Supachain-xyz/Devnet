@@ -1,0 +1,7 @@
+node_modules
+info.txt
+node1
+node2
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
